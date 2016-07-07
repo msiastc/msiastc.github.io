@@ -1,0 +1,105 @@
+.venue-top {
+  padding-top: 50px;
+}
+
+section {
+  height: 100vh;
+  p {
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    margin-top: 0px;
+  }
+}
+
+.text {
+  margin-top: 100px;
+  border-radius: 5px;
+  overflow: hidden;
+  background: white;
+  box-sizing: border-box;
+  width: 60%;
+  padding: 5%;
+  margin: 2em auto;
+  box-shadow: 0.1em 0 2em black;
+
+  img {
+    display: block;
+    margin:0 auto; 
+    width: 100%;
+    text-align: center;
+  }
+  ul, li, ol {
+    font-size: 110%;
+  }
+  .video {
+    position:relative;
+    padding-bottom: 56.25%;
+    height:0;
+    overflow:hidden;
+    align: middle;
+  }
+  .video iframe, .video object, .video embed {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+  }
+  p, h1, h2, h3 {
+    color: black;
+    text-align: left;
+  }
+  h1, h2 {
+    margin-top: 20px;
+  }
+  p {
+    font-size: 110%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.more-top, .recipe-top {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.nav-margin {   //0 when it is not in mobile view
+  margin-top: 20px;
+}
+
+@media screen and (max-width : 1600px){
+  .text {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width : 1024px){
+  .text {
+    width: 80%;
+  }
+  .more-top {
+    padding-top: 6vh;
+    padding-bottom: 3vh;
+  }
+}
+
+@media screen and (max-width : 760px){
+  .text {
+    width: 95%;
+  }
+  .more-top {
+    margin-top: 40px;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+  }
+  .recipe-top, body {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  .nav-margin { //in mobile view
+    margin-top: 50px;
+  }
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <!--background color-->
+  <script type="text/javascript">
+    document.write ('<body style="background: lightgray; background-attachment: fixed;">')
+  </script>
+
+  <body>
+    {% include header.html %}
+    {% include logo.html %}
+      <div class="contact">
+        {{ content }}
+      </div>
+  </body>
+    {% include footer.html %}
+</html>
