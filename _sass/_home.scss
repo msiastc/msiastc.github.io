@@ -80,6 +80,10 @@ body, textarea {
   margin: 0;
   margin-top: -4px;
 
+  a {
+    color: lightblue;
+  }
+
   h2 {
     margin: 0;
     padding: 0;
@@ -102,7 +106,7 @@ body, textarea {
   height: auto;
   padding: 50px 0px 50px 0px;
 
-  h2, p {
+  h2, h3, p {
     padding: 0px 25vw 10px 25vw;
   } 
   p {
@@ -112,7 +116,7 @@ body, textarea {
 
 @media screen and (max-width : 1200px){
   .home-section-1, .venue, .info {
-    h2, p {
+    h2, h3, p {
       padding-left: 15vw;
       padding-right: 15vw;
     } 
@@ -143,6 +147,9 @@ body, textarea {
     h2, p {
       padding-left: 20px;
       padding-right: 20px;
+    }
+    h2 {
+      padding-top: 40px;
     } 
   }
   .venue {
