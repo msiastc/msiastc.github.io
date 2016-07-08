@@ -1,3 +1,14 @@
+//Frame
+.black-frame {
+  border-radius: 5px;
+  overflow: hidden;
+  background: white;
+  box-sizing: border-box;
+  padding: 5%;
+  margin: 2em auto;
+  box-shadow: 0.1em 0 2em black;
+}
+
 .venue-top {
   padding-top: 50px;
 }
@@ -10,39 +21,23 @@
 }
 
 .event {
-  color: white;
-  padding: 10px 0px 10px 0px;
-  margin: 0;
-
+  padding: 5%;
+  margin: 100px 20vw 60px 20vw;
+  img {
+    width: 100%;
+  }
   a {
-    color: lightblue;
+    color: darkblue;
   }
-
   h1 {
-    margin-top: 50px;
+    margin: 0;
   }
-
-  h1, h2 {
-    padding: 0px 25vw 10px 25vw;
-    color: white; 
-    text-shadow: 2px 2px black;
+  h1, h2, h3, ol, p {
+    color: black; 
     text-align: left;
   }
-  body {
-    text-shadow: 2px 2px black;
-  }
-  ol {
-    padding: 0 25vw 0 26vw;
-    position:relative;
-    color: white; 
-    text-shadow: 2px 2px black;
-  }
-  p {
+  p, ol {
     font-size: 110%;
-    text-align: left;
-    padding: 0px 25vw 0px 25vw;
-    color: white; 
-    text-shadow: 2px 2px black;
   }
 }
 
@@ -52,8 +47,8 @@
       padding: 0 15vw 0 15vw;
     }
   }
-  ol {
-    padding-left: 0 15vw 0 16vw;
+  .event {
+      margin: 100px 15vw 60px 15vw;
   }
 }
 
@@ -64,112 +59,15 @@
     }
   }
   .event {
-    h1, h2, p {
-      padding: 0 15px 0 15px;
-    }
-    ol {
-      padding: 0 15px 0 35px;
-    }
+      margin: 50px 10px 10px 10px;
   }
-}
-
-
-section {
-  height: 100vh;
-  p {
-    color: white;
-    text-shadow: 1.5px 1.5px black;
-    margin-top: 0px;
+  h1 {
+    font-size: 130%;
   }
-}
-
-.text {
-  margin-top: 100px;
-  border-radius: 5px;
-  overflow: hidden;
-  background: white;
-  box-sizing: border-box;
-  width: 60%;
-  padding: 5%;
-  margin: 2em auto;
-  box-shadow: 0.1em 0 2em black;
-
-  img {
-    display: block;
-    margin:0 auto; 
-    width: 100%;
-    text-align: center;
+  h2 {
+    font-size: 120%;
   }
-
-  .video {
-    position:relative;
-    padding-bottom: 56.25%;
-    height:0;
-    overflow:hidden;
-    align: middle;
-  }
-  .video iframe, .video object, .video embed {
-    position: absolute;
-    margin: auto;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 100%;
-    height: 100%;
-  }
-  p, h1, h2, h3 {
-    color: black;
-    text-align: left;
-  }
-  h1, h2 {
-    margin-top: 20px;
-  }
-  p {
-    font-size: 110%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-}
-
-.more-top, .recipe-top {
-  padding-top: 5vh;
-  padding-bottom: 5vh;
-}
-
-.nav-margin {   //0 when it is not in mobile view
-  margin-top: 20px;
-}
-
-@media screen and (max-width : 1600px){
-  .text {
-    width: 70%;
-  }
-}
-
-@media screen and (max-width : 1024px){
-  .text {
-    width: 80%;
-  }
-  .more-top {
-    padding-top: 6vh;
-    padding-bottom: 3vh;
-  }
-}
-
-@media screen and (max-width : 760px){
-  .text {
-    width: 95%;
-  }
-  .more-top {
-    margin-top: 40px;
-    padding-top: 3vh;
-    padding-bottom: 3vh;
-  }
-  .recipe-top, body {
-    margin-top: 0;
-    padding-top: 0;
-  }
-  .nav-margin { //in mobile view
-    margin-top: 50px;
+  p, ol, li {
+    font-size: 100%;
   }
 }

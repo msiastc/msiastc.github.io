@@ -19,13 +19,23 @@ body, textarea {
   margin: 0;
 }
 
+section {
+  height: 100vh;
+  p {
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    margin-top: 0px;
+  }
+}
+
 .content-home{
-  /*set all font to roboto*/
+  /*logo at the first section */
   img {
     margin-top: 100px; 
     width: 250px; 
     height: 250px;
   }
+  /*set all font to roboto*/
   h1, h2, h3, p {
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
@@ -94,7 +104,7 @@ body, textarea {
   p {
     font-size: 110%;
     text-align: left;
-    padding: 0px 25vw 10px 25vw;
+    padding: 0px 25vw 0px 25vw;
     color: white; 
     text-shadow: 2px 2px black;
   }
