@@ -5,7 +5,6 @@
   word-wrap: break-word;
 
   td {
-    padding-left: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;
     text-overflow: ellipsis;
@@ -19,22 +18,37 @@
   }
   th, td {
     border: 1px solid black;
+    font-size: 120%;
+  }
+  th {
+      background: lightblue;
   }
   td {
     text-align: center;
+    font-size: 110%;
   }
   td + td {
     text-align: left;
+    padding-left: 10px;
   }
 }
 
 @media screen and (max-width: 760px){
     .agenda {
         .agenda-time {
-        width: 40%;
+            width: 40%;
         }
         .agenda-actiity {
-        width: 60%;
+            width: 60%;
+        }
+        td, th {
+            font-size: 100%;
+        }
+        td {
+            padding-left: 0px;
+        }
+        td + td {
+            padding-left: 10px;
         }
     }
 }
