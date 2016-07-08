@@ -1,0 +1,40 @@
+.agenda {
+  table-layout: fixed;
+  width: 100%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+
+  td {
+    padding-left: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+  }
+  /* Column widths are based on these cells */
+  .agenda-time {
+    width: 40%;
+  }
+  .agenda-actiity {
+     width: 60%;
+  }
+  th, td {
+    border: 1px solid black;
+  }
+  td {
+    text-align: center;
+  }
+  td + td {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 760px){
+    .agenda {
+        .agenda-time {
+        width: 40%;
+        }
+        .agenda-actiity {
+        width: 60%;
+        }
+    }
+}

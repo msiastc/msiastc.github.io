@@ -19,15 +19,6 @@ body, textarea {
   margin: 0;
 }
 
-section {
-  height: 100vh;
-  p {
-    color: white;
-    text-shadow: 1.5px 1.5px black;
-    margin-top: 0px;
-  }
-}
-
 .content-home{
   /*logo at the first section */
   img {
@@ -64,6 +55,9 @@ section {
   }
   P {
     font-size: 110%;
+    color: white;
+    text-shadow: 1.5px 1.5px black;
+    margin-top: 0px;
   }
 }
 
@@ -75,6 +69,7 @@ section {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
+  height: 100vh;
 
   h2 {
     padding-left: 20px;

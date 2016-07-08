@@ -1,0 +1,128 @@
+h1.team-h1 {
+  position: relative;
+  text-align: center;
+  color: DarkSlateGray; 
+  background: Wheat;
+  padding: 10px;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+
+.padding-team {
+  padding: 5%;
+}
+
+.team-container-top {
+  padding-top: 3em;
+}
+
+.team-container {
+  max-width: 1200px;
+  margin: 60px auto 30px auto;
+}
+
+.team-member {
+  padding: 0px 20px 0px 20px;
+  width: 16%;
+  float: left;
+  text-align: center;
+}
+
+.team-member:last-child {
+  margin-right: 0;
+}
+
+.team-member span, .team-member h3 {
+  font-family: sans-serif;
+  letter-spacing: -1px;
+}
+
+.team-member h3 {
+  color: SlateGray ;
+  min-height: 45px;
+  margin: 5px 0px 0px 0px;
+}
+
+.email {
+  color: #EA2678;
+}
+
+.team-member span {
+  display: block;
+  min-height: 40px;
+}
+
+.team-photo {
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  transition: 0.1s transform ease-in-out;
+}
+
+.team-photo:hover {
+  transform: scale(0.9);
+  cursor: pointer;
+}
+
+@media (max-width:1600px){
+  .team-container {
+    max-width: 950px;
+  }
+}
+
+@media (max-width:1200px){
+  .team-container {
+    max-width: 800px;
+  }
+  .team-member h3 {
+    min-height: 70px;
+  }
+  .team-member span {
+    min-height: 30px;
+  }
+}
+
+@media (max-width:1000px){
+  .team-container {
+    max-width: 700px;
+  }
+}
+
+/* code for phone layout */
+@media (max-width:760px){
+  .team-member {
+    padding: 0;
+    float: none;
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+  }
+  .team-member h3 {
+    min-height: 23px;
+  }
+  .team-member span {
+    min-height: 23px;
+  }
+  .team-container {
+    margin: 50px 10px 10px 10px;
+  }
+}
