@@ -82,15 +82,9 @@ h1.team-h1 {
   cursor: pointer;
 }
 
-@media (max-width:1600px){
+@media (max-width:1300px){
   .team-container {
-    max-width: 950px;
-  }
-}
-
-@media (max-width:1200px){
-  .team-container {
-    max-width: 800px;
+    max-width: 850px;
   }
   .team-member h3 {
     min-height: 70px;
@@ -124,5 +118,8 @@ h1.team-h1 {
   }
   .team-container {
     margin: 50px 10px 10px 10px;
+  }
+  .team-container-top {
+    padding-top: 0px;
   }
 }
