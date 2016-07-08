@@ -120,10 +120,10 @@ body, textarea {
   .home-section-1, .info {
     h2, h3, p {
       padding: 0 15vw 10px 15vw;
-    } 
+    }
   }
   .venue {
-    h2, p {
+    h1, h2, p {
       padding: 0 15vw 0 15vw;
     }
   }
@@ -143,12 +143,15 @@ body, textarea {
     h2 {
       font-size: 115%;
     }
+    h3 {
+      font-size: 110%;
+    }
   }
   .home-section-1 {
     p {
       font-size: 100%;
     }
-    h2, p {
+    h2, h3, p {
       padding-left: 20px;
       padding-right: 20px;
     }
@@ -157,12 +160,14 @@ body, textarea {
     } 
   }
   .venue {
+    h2, p {
+      padding: 0 20px 0 20px;
+    }
     h2 {
       font-size: 115%;
     }
     p {
       font-size: 100%;
-      padding: 0 20px 0 20px;
     } 
   }
 }
