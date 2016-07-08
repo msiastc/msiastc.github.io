@@ -109,17 +109,18 @@ body, textarea {
   h2, h3, p {
     padding: 0px 25vw 10px 25vw;
   } 
-  p {
-    padding-bottom: 10px;
-  }
 }
 
 @media screen and (max-width : 1200px){
-  .home-section-1, .venue, .info {
+  .home-section-1, .info {
     h2, h3, p {
-      padding-left: 15vw;
-      padding-right: 15vw;
+      padding: 0 15vw 10px 15vw;
     } 
+  }
+  .venue {
+    h2, p {
+      padding: 0 15vw 0 15vw;
+    }
   }
 }
 
@@ -139,8 +140,6 @@ body, textarea {
     }
   }
   .home-section-1 {
-    padding-top: 20px;
-    padding-bottom: 20px;
     p {
       font-size: 100%;
     }
@@ -158,8 +157,7 @@ body, textarea {
     }
     p {
       font-size: 100%;
-      padding-left: 20px;
-      padding-right: 20px;
+      padding: 0 20px 0 20px;
     } 
   }
 }

@@ -2,6 +2,78 @@
   padding-top: 50px;
 }
 
+.venue-map {
+  iframe {
+    height: 60vh;
+    width: 100%;
+  }
+}
+
+.event {
+  color: white;
+  padding: 10px 0px 10px 0px;
+  margin: 0;
+
+  a {
+    color: lightblue;
+  }
+
+  h1 {
+    margin-top: 50px;
+  }
+
+  h1, h2 {
+    padding: 0px 25vw 10px 25vw;
+    color: white; 
+    text-shadow: 2px 2px black;
+    text-align: left;
+  }
+  body {
+    text-shadow: 2px 2px black;
+  }
+  ol {
+    padding: 0 25vw 0 26vw;
+    position:relative;
+    color: white; 
+    text-shadow: 2px 2px black;
+  }
+  p {
+    font-size: 110%;
+    text-align: left;
+    padding: 0px 25vw 0px 25vw;
+    color: white; 
+    text-shadow: 2px 2px black;
+  }
+}
+
+@media screen and (max-width : 1200px){
+  .venue {
+    h1, h2, p {
+      padding: 0 15vw 0 15vw;
+    }
+  }
+  ol {
+    padding-left: 0 15vw 0 16vw;
+  }
+}
+
+@media screen and (max-width : 760px){
+  .venue-map {
+    iframe {
+      height: 45vh;
+    }
+  }
+  .event {
+    h1, h2, p {
+      padding: 0 15px 0 15px;
+    }
+    ol {
+      padding: 0 15px 0 35px;
+    }
+  }
+}
+
+
 section {
   height: 100vh;
   p {
@@ -28,9 +100,7 @@ section {
     width: 100%;
     text-align: center;
   }
-  ul, li, ol {
-    font-size: 110%;
-  }
+
   .video {
     position:relative;
     padding-bottom: 56.25%;
