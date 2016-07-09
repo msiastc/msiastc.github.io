@@ -36,10 +36,18 @@ h1.team-h1 {
 .team-container {
   max-width: 1200px;
   margin: 60px auto 30px auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .team-member {
-  padding: 0px 20px 0px 20px;
+  padding: 10px 20px 10px 20px;
   width: 16%;
   text-align: center;
   float: left;
@@ -56,7 +64,6 @@ h1.team-h1 {
 
 .team-member h3 {
   color: SlateGray ;
-  min-height: 45px;
   margin: 5px 0px 0px 0px;
 }
 
@@ -66,7 +73,7 @@ h1.team-h1 {
 
 .team-member span {
   display: block;
-  min-height: 40px;
+  padding: 5px 0px 0px 0px;
 }
 
 .team-photo {
@@ -87,12 +94,6 @@ h1.team-h1 {
   .team-container {
     max-width: 850px;
   }
-  .team-member h3 {
-    min-height: 70px;
-  }
-  .team-member span {
-    min-height: 30px;
-  }
 }
 
 @media (max-width:1000px){
@@ -110,12 +111,6 @@ h1.team-h1 {
     margin: 20px auto;
     width: 100%;
     text-align: center;
-  }
-  .team-member h3 {
-    min-height: 23px;
-  }
-  .team-member span {
-    min-height: 23px;
   }
   .team-container {
     margin: 50px 10px 10px 10px;
