@@ -4,6 +4,7 @@ h1.team-h1 {
   color: DarkSlateGray; 
   background: Wheat;
   padding: 10px;
+  width: 100%;
 }
 
 .cf:before,
@@ -35,13 +36,21 @@ h1.team-h1 {
 .team-container {
   max-width: 1200px;
   margin: 60px auto 30px auto;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: center;
 }
 
 .team-member {
   padding: 0px 20px 0px 20px;
   width: 16%;
-  float: left;
   text-align: center;
+  float: left;
 }
 
 .team-member:last-child {
