@@ -20,7 +20,6 @@ button:hover {
 .down {
   a {
     position: absolute;
-    bottom: 20px;
     left: 50%;
     z-index: 2;
     display: inline-block;
@@ -40,9 +39,9 @@ button:hover {
 
   a span {
     position: absolute;
-    top: 0;
     width: 46px;
     height: 46px;
+    top: 10vh;
     margin-left: -23px;
     border: 1px solid #fff;
     border-radius: 100%;
