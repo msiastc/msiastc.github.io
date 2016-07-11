@@ -17,7 +17,7 @@ description: > # this means to ignore newlines until "baseurl:"
   the participants get to have better insights on the local challenges faced in Malaysia, 
   they will also have the opportunity to network with people from the industry. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://msiastc.github.io" # the base hostname & protocol for your site
+url: "http://msiastc.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 

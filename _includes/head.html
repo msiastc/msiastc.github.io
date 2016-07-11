@@ -19,7 +19,7 @@
   <!-- WEBSITE ICON IN BROWSER -->
   <link rel="icon" type="image/png" href="/img/icon.png">
   <!-- ROOT URL -->
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
   <!-- WEB TITLE -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 </head>
