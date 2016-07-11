@@ -14,10 +14,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
-fb_admins:          https://www.facebook.com/faizul.zuraimi
-fb_appid:           1557256767905973
-avatar:             img/icon-large.png
-
 # Build settings
 markdown: kramdown
 
