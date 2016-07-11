@@ -10,15 +10,13 @@ title: Malaysian Students' Technology Conference - MSTC
 description: > # this means to ignore newlines until "baseurl:"
   The Malaysian Students’ Technology Conference (MSTC) is the first initiative spearheaded 
   by Malaysian students studying in the UK that serves as a platform for topics that are 
-  relevant to STEM (Science, Technology, Engineering and Mathematics) students. Under the 
-  banner of MSSM (Malaysian Students’ Society of Manchester), with “Globalising the Local, 
-  & Localising the Global” as our theme, the conference will cover a wide range of topics 
-  within the scope of entrepreneurship, social, environment and corporate. Not only will 
-  the participants get to have better insights on the local challenges faced in Malaysia, 
-  they will also have the opportunity to network with people from the industry. 
+  relevant to STEM (Science, Technology, Engineering and Mathematics) students.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://msiastc.github.io" # the base hostname & protocol for your site
+url: "https://msiastc.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
 include: ['_pages']
+
+gems:
+  - jekyll-sitemap
