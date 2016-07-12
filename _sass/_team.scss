@@ -44,6 +44,12 @@ h1.team-h1 {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+
+  *, *:before, *:after {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+  }
 }
 
 .team-member {

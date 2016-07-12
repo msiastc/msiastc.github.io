@@ -1,4 +1,10 @@
 nav {
+	*, *:before, *:after {
+		-webkit-box-sizing: content-box;
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+	}
+
 	background-color: #2f3036;
 	position: fixed;
 	top: 0;

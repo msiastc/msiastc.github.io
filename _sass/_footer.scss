@@ -1,15 +1,15 @@
 /*FOOTER ONLY*/
-
-*,
-*:before,
-*:after {
+html {
   -webkit-box-sizing: border-box;
-  -moz-box-sizing:    border-box;
-  box-sizing:         border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 100%;
 }
 
-html {
-  height: 100%;
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
