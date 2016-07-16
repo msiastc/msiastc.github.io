@@ -27,7 +27,7 @@ social:
 
 google_site_verification: google3d1dfe2dc5cfa440.html
 
-include: ['_pages']
+include: ['_pages', '_speakers-more']
 
 gems:
   - jekyll-sitemap

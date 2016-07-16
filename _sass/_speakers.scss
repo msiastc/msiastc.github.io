@@ -1,0 +1,35 @@
+.speakers {
+    .speaker-profile {
+        img {
+            border-radius: 50%;
+            max-width: 300px;
+            float: left;
+            overflow: hidden;
+            margin-right: 25px;
+            margin-bottom: 10px;
+        }
+        a {
+            color: DodgerBlue;
+        }
+    }
+}
+
+@media screen and (max-width:760px){
+    .speakers {
+        h1 {
+            margin-top: 10px;
+        }
+        .speaker-profile {
+            img {
+                display: block;
+                margin: auto;
+                float: none;
+            }
+        }
+        .title {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    }
+}
+
