@@ -9,6 +9,7 @@
   box-shadow: 0.1em 0 2em black;
 }
 
+// Venue page title padding
 .venue-top {
   padding-top: 50px;
 }
@@ -39,6 +40,23 @@
   p, ol {
     font-size: 110%;
   }
+}
+
+.video {
+  position:relative;
+  padding-bottom: 56.25%;
+  height:0;
+  overflow:hidden;
+  align: middle;
+}
+.video iframe, .video object, .video embed {
+  position: absolute;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
 }
 
 @media screen and (max-width : 1200px){

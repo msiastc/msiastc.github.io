@@ -8,7 +8,7 @@
 # Site settings
 title: Malaysian Students' Technology Conference - MSTC
 description: > # this means to ignore newlines until "baseurl:"
-  The Malaysian Students’ Technology Conference (MSTC) is the first initiative spearheaded 
+  #MSTC2016 | The Malaysian Students’ Technology Conference (MSTC) is the first initiative spearheaded 
   by Malaysian students studying in the UK that serves as a platform for topics that are 
   relevant to STEM (Science, Technology, Engineering and Mathematics) students.
 baseurl: "" # the subpath of your site, e.g. /blog
