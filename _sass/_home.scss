@@ -88,7 +88,6 @@ body, textarea {
   a {
     color: lightblue;
   }
-
   h2 {
     margin: 0;
     padding: 0;
@@ -116,10 +115,29 @@ body, textarea {
   } 
 }
 
-@media screen and (max-width : 1200px){
+@media screen and (max-width : 1800px){
+  .content-home {
+    h1 {
+      padding-top: 10px;
+    }
+  }
   .home-background {
     min-height: 800px;
   }
+}
+
+@media screen and (max-width : 1500px){
+  .content-home {
+    img {
+      margin-top: 70px; 
+    }
+  }
+  .home-background {
+    min-height: 650px;
+  }
+}
+
+@media screen and (max-width : 1200px){
   .home-section-1, .info {
     h2, h3, p {
       padding: 0 15vw 10px 15vw;
