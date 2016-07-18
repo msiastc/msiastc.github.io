@@ -26,9 +26,12 @@
   td {
     text-align: center;
     font-size: 110%;
-
-    b {
+    a {
         color: DodgerBlue;
+        text-decoration: none;
+    }
+    b {
+        color: RoyalBlue;
     }
   }
   td + td {
