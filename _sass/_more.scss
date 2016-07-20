@@ -20,27 +20,6 @@
   }
 }
 
-.event {
-  padding: 5%;
-  margin: 100px 20vw 60px 20vw;
-  img {
-    width: 100%;
-  }
-  a {
-    color: darkblue;
-  }
-  h1 {
-    margin: 0;
-  }
-  h1, h2, h3, ol, p {
-    color: black; 
-    text-align: left;
-  }
-  p, ol {
-    font-size: 110%;
-  }
-}
-
 .video {
   position:relative;
   padding-bottom: 56.25%;
@@ -65,28 +44,10 @@
     margin-top: 15px;
 }
 
-@media screen and (max-width : 1200px){
-  .event {
-      margin: 100px 15vw 60px 15vw;
-  }
-}
-
 @media screen and (max-width : 760px){
   .venue-map {
     iframe {
       height: 45vh;
     }
-  }
-  .event {
-      margin: 50px 10px 10px 10px;
-  }
-  h1 {
-    font-size: 130%;
-  }
-  h2 {
-    font-size: 120%;
-  }
-  p, ol, li {
-    font-size: 100%;
   }
 }
