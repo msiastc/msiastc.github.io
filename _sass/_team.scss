@@ -30,13 +30,9 @@ h1.team-h1 {
   padding: 5%;
 }
 
-.team-container-top {
-  padding-top: 3em;
-}
-
 .team-container {
   max-width: 1200px;
-  margin: 60px auto 30px auto;
+  margin: 30px auto 40px auto;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -52,6 +48,10 @@ h1.team-h1 {
     box-sizing: content-box;
   }
 }
+
+  .team-container-top {
+    margin-top: 70px;
+  }
 
 .team-member {
   padding: 10px 20px 10px 20px;
@@ -123,6 +123,6 @@ h1.team-h1 {
     margin: 50px 10px 10px 10px;
   }
   .team-container-top {
-    padding-top: 0px;
+    margin-top: 70px;
   }
 }
