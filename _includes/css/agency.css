@@ -20,7 +20,7 @@ html {
 body {
     position: absolute;
     margin: 0;
-    padding-bottom: 60px;
+    padding-bottom: 90px;
     min-height: 100%;
     width: 100%;
     overflow-x: hidden;
@@ -866,7 +866,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: #{{ site.data.template.color.primary }};
+    background: orange;
 }
 
 img::selection {
