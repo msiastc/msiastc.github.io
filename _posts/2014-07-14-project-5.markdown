@@ -1,0 +1,12 @@
+---
+title: Mr. Gurmit Singh
+name: Gurmit-Singh
+subtitle: Chairman of CETDEM 
+layout: default
+modal-id: 4
+img: gurmit-singh.jpg
+thumbnail: gurmit-singh.jpg
+alt: Picture of Mr. Gurmit Singh
+topic: Moderator of MSTC 2016
+description: • Chairman of CETDEM<br>• 2009 Outstanding Sustainability Contribution Award<br>• 2008 Sustainable Consumer Award<br>• 1993 Langkawi Award<br><br>This is not the Gurmit Singh you think. This is the hardcore environmentalist Gurmit Singh who will be asking hard questions to our panellist as the moderator.
+---
