@@ -2,7 +2,7 @@
 title: Robest Yong
 name: Robest-Yong
 subtitle: Inventor of Polyclone Rubber Stamp, Founder & Principal at Innopreneur Academy
-layout: default
+layout: 2016_default
 modal-id: 3
 img: robest-yong.jpg
 thumbnail: robest-yong.jpg

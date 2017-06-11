@@ -2,7 +2,7 @@
 title: Dato' Mazlan Othman
 name: Mazlan-Othman
 subtitle: Malaysia's First Astrophysicist
-layout: default
+layout: 2016_default
 modal-id: 6
 img: mazlan-othman.jpg
 thumbnail: mazlan-othman.jpg

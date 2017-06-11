@@ -2,7 +2,7 @@
 title: Dr. Foo Say Moo
 name: Foo-Say-Moo
 subtitle: Vice-President of ENSEARCH
-layout: default
+layout: 2016_default
 modal-id: 6
 img: foo-say-moo.jpg
 thumbnail: foo-say-moo.jpg

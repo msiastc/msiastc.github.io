@@ -2,7 +2,7 @@
 title: Dr. Nehemiah Lee
 name: Nehemiah-Lee
 subtitle: Founder of Nehemiah Reinforced Soil Sdn. Bhd.
-layout: default
+layout: 2016_default
 modal-id: 1
 img: nehemiah-lee.jpg
 thumbnail: nehemiah-lee.jpg

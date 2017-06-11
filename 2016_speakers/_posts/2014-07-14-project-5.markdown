@@ -2,7 +2,7 @@
 title: Mr. Gurmit Singh
 name: Gurmit-Singh
 subtitle: Chairman of CETDEM 
-layout: default
+layout: 2016_default
 modal-id: 4
 img: gurmit-singh.jpg
 thumbnail: gurmit-singh.jpg

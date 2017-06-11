@@ -2,7 +2,7 @@
 title: Mahaletchumy Arujanan
 name: Mahaletchumy-Arujanan
 subtitle: Executive Director of the Malaysian Biotechnology Information Centre (MABIC)
-layout: default
+layout: 2016_default
 modal-id: 2
 img: Mahaletchumy.jpg
 thumbnail: Mahaletchumy.jpg

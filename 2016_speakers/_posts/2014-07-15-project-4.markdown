@@ -2,7 +2,7 @@
 title: Dr. Zainab bt. Ngaini
 name: Zainab-Ngaini
 subtitle: Associate Professor of Chemistry in UNIMAS
-layout: default
+layout: 2016_default
 modal-id: 4
 img: zainab-ngaini.jpg
 thumbnail: zainab-ngaini.jpg

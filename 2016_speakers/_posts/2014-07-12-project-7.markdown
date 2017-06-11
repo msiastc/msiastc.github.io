@@ -2,7 +2,7 @@
 title: YB Nancy Shukri
 name: Nancy-Shukri
 subtitle: Minister in The Prime Minister's Department
-layout: default
+layout: 2016_default
 modal-id: 6
 img: nancy-shukri.jpg
 thumbnail: nancy-shukri.jpg
