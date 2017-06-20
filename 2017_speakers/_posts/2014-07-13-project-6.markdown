@@ -1,0 +1,12 @@
+---
+title: Dato' Mazlan Othman
+name: Mazlan-Othman
+subtitle: Malaysia's First Astrophysicist
+layout: 2016_default
+modal-id: 6
+img: mazlan-othman.jpg
+thumbnail: mazlan-othman.jpg
+alt: Picture of Dato Mazlan Othman
+topic: Science & Technology and The Future of Society
+description: • Malaysia's First Astrophysicist<br>• Former Director of the United Nations Office for Outer Space Affairs<br>• 2009 President's Medal recipient from the Institute of Physics<br>Datuk Dr. Mazlan Othman is Malaysia’s first astrophysicist. She was the first woman to earn a Ph.D. in physics from University of Otago since the university was founded in 1869. She later returned to Malaysia and contributed in popularizing astronomy such as establishing university courses, laboratories for undergraduate and postgraduate training, the Malaysian Space Science Studies Division and many more. She served as the Director of the United Nations Office for Outer Space Affairs (UNOOSA) in Vienna from 1999 to 2002 and from 2007 to 2013. In July 2002, she returned to Malaysia to serve as the founding Director General of Angkasa, the Malaysia National Space Agency, where her work led to the launch of the first Malaysian astronaut, Sheikh Muszaphar Shukor. She is currently the Project Director of the Academy of Sciences Malaysia.
+---

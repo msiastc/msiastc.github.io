@@ -1,0 +1,12 @@
+---
+title: YB Nancy Shukri
+name: Nancy-Shukri
+subtitle: Minister in The Prime Minister's Department
+layout: 2016_default
+modal-id: 6
+img: nancy-shukri.jpg
+thumbnail: nancy-shukri.jpg
+alt: Picture of YB Nancy Shukri
+topic: Opening keynote speaker
+description: • Minister in The Prime Minister's Department<br>• Chairman of MyIPO;s Nomination and Remuneration Committee <br><br> YB Puan Hajah Nancy Shukri is a Minister in The Prime Minister’s Department. She was recently moved from being in charge of the Prime Minister’s Department’s Legal Affairs Division to being in charge of The Malaysian Innovation Agency, Malaysian Industry-Government Group for High Technology (MIGHT) and The Malaysian Nuclear Agency. She has expressed great interest in her new post saying that she will be looking into innovation and industry players from different sectors in many aspects. <br><br> YB Nancy holds a Diploma in Public Administration from UiTM, Bachelor of Law (Honours) from University of Hull, United Kingdom and an Executive Masters in Business Administration from University of UiTM/Ohio(Beta Gamma Sigma Honorary Award). She was the Legal Adviser for Dewan Bandaraya Kuching Utara from 1992 to 2003. She is the Chairman of MyIPO`s Nomination and Remuneration Committee, Member of Audit Committee and Member of Investment Committee. Currently she is a Member of Parliament for Batang Sadong, Sarawak. She is also among others, Assistant Secretary General for Parti Pesaka Bumiputera Bersatu Sarawak, Member of The International Parliamentary Union, Member of the ASEAN Inter Parliamentary Association and Member of The Commonwealth Parliamentary Association. She serves as Chairman of Women Parliamentary Caucus and National Archives of Malaysia
+---

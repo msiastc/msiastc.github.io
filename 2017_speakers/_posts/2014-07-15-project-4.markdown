@@ -1,0 +1,12 @@
+---
+title: Dr. Zainab bt. Ngaini
+name: Zainab-Ngaini
+subtitle: Associate Professor of Chemistry in UNIMAS
+layout: 2016_default
+modal-id: 4
+img: zainab-ngaini.jpg
+thumbnail: zainab-ngaini.jpg
+alt: Picture of Dr. Zainab bt. Ngaini
+topic: Application of Sago Waste
+description: • Associate Professor of Chemistry in UNIMAS<br>• 2012 Ecopreneur Award<br><br>Dr. Zainab bt. Ngaini, an Associate Professor of Chemistry in UNIMAS, has for years delved into the research of novel ideas to aid the conservation of our environment. She currently has over 60 published scientific papers concerning topics catalyst-free, green synthesis of carbon nanoparticles as part of a ‘Waste to Wealth Approach’, a novel concept that utilizes waste materials as profit-making substances that are also eco-friendly. Being part of the team EcoSagoTek that won the Ecopreneur Award of 2012 after having developed a business proposal for their revolutionary water treatment system, Dr. Zainab’s research concerns this management of waste materials to lessen the ecological burden they cause, particularly the usage of sago waste material to absorb oil spills.<br><br>Dr. Zainab has been actively involved throughout the years with talks and roadshows promoting the sciences. She believes the youth of the country should realise just how exciting the sciences can be, what with the development of new innovations and green chemistry, especially from waste materials. What more, Dr. Zainab is also a firm believer in the value of research and encourages young people to seriously consider researching as a viable career option, especially if they want to pursue aspirations in the green technology sector.
+---

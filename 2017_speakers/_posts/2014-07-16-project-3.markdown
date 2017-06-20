@@ -1,0 +1,12 @@
+---
+title: Robest Yong
+name: Robest-Yong
+subtitle: Inventor of Polyclone Rubber Stamp, Founder & Principal at Innopreneur Academy
+layout: 2016_default
+modal-id: 3
+img: robest-yong.jpg
+thumbnail: robest-yong.jpg
+alt: Picture of Robest Yong
+topic: Think Without The Box
+description: • Malaysian Inventor of the Year 1994<br>• 1997 National Youth Award<br>• 2000 Ourstanding Malaysian Award<br>• TEDxKL 2013 Presenter<br><br>Living up to his motto “Think Without The Box”, Robest Yong does not believe in taking the beaten path. In 1989, Yong left his employment and ventured into the world of innovators. His effort soon paid off as he invented the POLYCLONE instant rubber stamp machine, which became widely successful in commercial, used in bookshops worldwide, and revolutionised the industry. It won him an award (first of many more) at the International Invention Exhibition in Geneva, Switzerland in 1994; and he was thereafter named the Malaysian National Inventor of the Year.<br><br>Yong was one of the speakers in TEDxKL2013, where he presented his invention to enable visually challenged people to use the smart phone. He also produced multiple inventions such as magnetic brush, luggage detector, mosquito glue, TGFree Laptop charger and probiotic plant nutrients.<br><br>Yong is currently the founder and principal of Innopreneur Academy, which is an innovation entrepreneurship coaching platform for innovators. He is also the consultant for Yayasan Innovasi Malaysia (YIM) Grassroot Innovation Program.
+---

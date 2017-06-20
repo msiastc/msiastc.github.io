@@ -1,0 +1,12 @@
+---
+title: Mahaletchumy Arujanan
+name: Mahaletchumy-Arujanan
+subtitle: Executive Director of the Malaysian Biotechnology Information Centre (MABIC)
+layout: 2016_default
+modal-id: 2
+img: Mahaletchumy.jpg
+thumbnail: Mahaletchumy.jpg
+alt: Picture of Mahaletchumy Arujanan
+topic: Women Empowermen in Science and Engineering
+description: • 2015 World's 100 most influential people in Biotechnology<br>• Editor In Chief of The Petri Dish<br><br>Dr. Mahaletchumy Arujanan was listed as one of the world’s 100 most influential people in biotechnology by Scientific American Worldview 2015. She is currently the Executive Director of the Malaysian Biotechnology Information Centre (MABIC) and she aims to transform Malaysia into a biotechnology powerhouse. In addition, she is also the Editor-in-Chief of the first popular science newspaper in Malaysia called The Petri Dish, which allows the public domain to have a better understanding of life sciences. <br><br> An expert in biotechnology, Dr. Maha has published many scientific articles and serves on a number of committees including the National Bioethics Council. She is well known for her non-traditional approaches in communicating biotechnology such as through fashion show and carnivals.
+---

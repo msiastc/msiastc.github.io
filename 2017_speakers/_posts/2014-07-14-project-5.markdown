@@ -1,0 +1,12 @@
+---
+title: Mr. Gurmit Singh
+name: Gurmit-Singh
+subtitle: Chairman of CETDEM 
+layout: 2016_default
+modal-id: 4
+img: gurmit-singh.jpg
+thumbnail: gurmit-singh.jpg
+alt: Picture of Mr. Gurmit Singh
+topic: Moderator of MSTC 2016
+description: • Chairman of CETDEM<br>• 2009 Outstanding Sustainability Contribution Award<br>• 2008 Sustainable Consumer Award<br>• 1993 Langkawi Award<br><br>Mr. Gurmit Singh is a dedicated environmentalist, social activist and engineer. Currently the Chairman of the Centre for Environment, Technology and Development, Malaysia after serving as the Centre’s Executive Director from June 1985 to December 2006, he is also an Adviser to the Environmental Protection Society, Malaysia; a member of the Environmental Quality Council, Malaysia; a Steering Committee Member of the Climate Action Network, Southeast Asia (CANSEA) where he held a number of key positions, for example, as a Steering Committee Member of Sustainable & Peaceful Energy Network Asia.<br><br>Originally a holder of an Electrical Engineering degree from the University of Malaya, Mr. Gurmit Singh is a member of the Institution of Engineers Malaysia, but focuses his efforts into environmentalism to such a pinnacle that he has served on the Ministry of Science, Technology and the Environment’s Environmental Laws Review Committee, its Environment Policy Drafting Committee and similar committees of the Ministry of Natural Resources & Environment since July 2005.<br><br>Befitting a person with so much experience, Mr. Gurmit Singh has published several important references on the environment, including Malaysian Urban Household Energy Consumption Patterns in 2006; Sustainable Development Indicators Report in 2004, Making Biodiversity Meaningful in 2001 and delivered over 400 papers at local and international seminars and meetings on environment, conservation, energy, engineering, technology, research, climate change and human rights.<br><br>For his extensive work, the Malaysian Government awarded Mr. Singh the distinguished Langkawi Award in 1993, while an Honorary M.Sc. was awarded by Universiti Putra Malaysia in 2000. Mr. Singh’s contributions continue till this day, what with the Green Technology Corporation Malaysia awarding him a Green Catalyst Award in 2015, recognising him as an important part of their vision to create a green Malaysia.
+---

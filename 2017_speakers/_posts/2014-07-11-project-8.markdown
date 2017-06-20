@@ -1,0 +1,12 @@
+---
+title: Dr. Foo Say Moo
+name: Foo-Say-Moo
+subtitle: Vice-President of ENSEARCH
+layout: 2016_default
+modal-id: 6
+img: foo-say-moo.jpg
+thumbnail: foo-say-moo.jpg
+alt: Picture of Dr. Foo Say Moo
+topic: Opening keynote speaker
+description: • Vice-President of ENSEARCH<br>• Technical Advisor for Golden Ecosystem Sdn. Bhd<br>• PhD holder in Atmospheric Corrosion and Pollution <br><br> Dr. Foo Say Moo is the Vice-President cum Chairman of Education and Training Committee of the Environmental Management and Research Association of Malaysia (ENSEARCH). This NGO is an association of organisations, professionals, students and people with interest in learning and promoting effective ways to manage the impacts of human activities on the environment. The members of ENSEARCH believe that all are responsible for managing and mitigating the impacts of their corporate, professional and daily living activities on the environment. Thus, the motto of the association is; ‘ENSEARCH for a Better Environment’.<br><br>Dr. Foo himself is a veteran of the environmentalism cause. Having worked for more than 30 years in the oil and gas industry, he has covered a spectrum of expertise in Research and Development, science and technology in the fields ranging from petrophysics, crude oil and petroleum products, corrosion and pollution, material, environment, facilities engineering and energy conservation to HSE and sustainable development.<br><br>This PhD holder in Atmospheric Corrosion and Pollution from the Victoria University of Manchester is also a Technical Advisor for Golden Ecosystem Sdn. Bhd., a company providing environmental research and consultancy services, with a specialization in air pollution and chemical processes and the Deputy Chair of SIRIM Technical Committee on EcoLabelling, amongst many other memberships and associate-hood in environmentally aware organizations.<br><br>Dr. Foo Say Moo now looks forward to greater involvement in the amelioration of Malaysia’s green future, advising the younger generation to consider this field as a viable option for employment. Having seen Malaysia’s commitment to environmental conservation over the past few years, Dr. Foo sees this field as one of the most exciting and necessary means for work.
+---
