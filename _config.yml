@@ -5,12 +5,17 @@ description: > # this means to ignore newlines until "baseurl:"
   first initiative spearheaded by Malaysians students studying in the UK 
   that serves as a platform for topics that are relevant to STEM (Science, 
   Technology, Engineering and Mathematics).
-url: "https://msiastc.github.io"
+url: "https://msiastc.github.io/2016"
 baseurl: ""
 logo: MSTC <b>2017</b>
 google_site_verification: google3d1dfe2dc5cfa440.html
 paginate: 5
 paginate_path: "/page:num/"
+permalink: "/article/:title"
+markdown: redcarpet
+highlighter: false
+include: ['_2016_pages']
+
 #2017 Footer
 owner:
     email: mssm.mstc2016@gmail.com
@@ -30,19 +35,18 @@ owner:
     linkedin:
         show: false
         profile: ""
+
 #2016 Footer
 social:
   - title: facebook
     url: https://www.facebook.com/malaysianstudentstechnologyconference/
+
 sass:
     sass_dir: _sass
     style: compressed
-permalink: "/article/:title"
-markdown: redcarpet
-highlighter: false
+
 gems:
     - jekyll-feed
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-seo-tag
-include: ['_2016_pages']
