@@ -12,7 +12,7 @@ google_site_verification: google3d1dfe2dc5cfa440.html
 paginate: 5
 paginate_path: "/page:num/"
 permalink: "/article/:title"
-markdown: redcarpet
+markdown: kramdown
 highlighter: false
 include: ['_2016_pages']
 
