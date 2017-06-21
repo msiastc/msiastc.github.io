@@ -41,7 +41,7 @@ body {
 }
 
 .text-muted {
-    #{{ site.data.template.color.muted }};
+    color: #{{ site.data.template.color.muted }};
 }
 
 .text-primary {
@@ -95,6 +95,12 @@ h4 {
     margin: 0 auto;
 }
 
+aside.clients {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+aside.clients,
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -154,16 +160,29 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-sm {
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.btn-sm, .btn-xl {
+    color: #fff;
+    background-color: #{{ site.data.template.color.primary }};
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 18px;
-    font-weight: 700;
-    color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
 }
 
+.btn-sm:hover,
+.btn-sm:focus,
+.btn-sm:active,
+.btn-sm.active,
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
@@ -174,12 +193,29 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.btn-sm:active,
+.btn-sm.active,
+.open .dropdown-toggle.btn-sm,
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     background-image: none;
 }
-
+.btn-sm.disabled,
+.btn-sm[disabled],
+fieldset[disabled] .btn-sm,
+.btn-sm.disabled:hover,
+.btn-sm[disabled]:hover,
+fieldset[disabled] .btn-sm:hover,
+.btn-sm.disabled:focus,
+.btn-sm[disabled]:focus,
+fieldset[disabled] .btn-sm:focus,
+.btn-sm.disabled:active,
+.btn-sm[disabled]:active,
+fieldset[disabled] .btn-sm:active,
+.btn-sm.disabled.active,
+.btn-sm[disabled].active,
+fieldset[disabled] .btn-sm.active,
 .btn-xl.disabled,
 .btn-xl[disabled],
 fieldset[disabled] .btn-xl,
@@ -199,6 +235,7 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+.btn-sm .badge,
 .btn-xl .badge {
     color: #{{ site.data.template.color.primary }};
     background-color: #fff;
@@ -360,6 +397,7 @@ section {
     padding: 100px 0;
 }
 
+aside.clients h2,
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
@@ -386,19 +424,19 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-#portfolio .portfolio-item {
+#speakers .speakers-item {
     right: 0;
     margin: 0 0 15px;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+#speakers .speakers-item .speakers-link {
     display: block;
     position: relative;
     margin: 0 auto;
     max-width: 400px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+#speakers .speakers-item .speakers-link .speakers-hover {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -410,11 +448,11 @@ section h3.section-subheading {
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+#speakers .speakers-item .speakers-link .speakers-hover:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -425,41 +463,45 @@ section h3.section-subheading {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h3,
+#speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content h4 {
     margin: 0;
 }
 
-#portfolio .portfolio-item .portfolio-caption {
+#speakers .speakers-item .speakers-caption {
     margin: 0 auto;
-    padding: 25px;
+    padding-top: 25px;
+    padding-bottom: 5px;
     max-width: 400px;
+    min-height: 100px;
     text-align: center;
     background-color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#speakers .speakers-item .speakers-caption h4 {
     margin: 0;
     text-transform: none;
 }
 
-#portfolio .portfolio-item .portfolio-caption p {
+/*
+#speakers .speakers-item .speakers-caption p {
     margin: 0;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 120%;
+    font-size: 100%;
     font-style: italic;
 }
+*/
 
-#portfolio * {
+#speakers * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    #speakers .speakers-item {
         margin: 0 0 30px;
     }
 }
