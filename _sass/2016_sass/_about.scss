@@ -1,6 +1,7 @@
 .about {
     padding: 5%;
-    margin: 100px 15vw 60px 15vw;
+    margin: 30px 15vw 30px 15vw;
+
     img {
         max-width: 500px;
     }
@@ -30,6 +31,14 @@
     h2.third {
          width: 150px;
     }
+}
+
+.about-container-top {
+  margin-top: 100px;
+}
+
+.about-container-bottom {
+  margin-bottom: 60px;
 }
 
 @media screen and (max-width : 1200px){

@@ -32,7 +32,7 @@ h1.team-h1 {
 
 .team-container {
   max-width: 1200px;
-  margin: 10px auto 10px auto;
+  margin: 30px auto 30px auto;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -50,7 +50,11 @@ h1.team-h1 {
 }
 
 .team-container-top {
-  margin-top: 70px;
+  margin-top: 100px;
+}
+
+.team-container-bottom {
+  margin-bottom: 60px;
 }
 
 .team-member {

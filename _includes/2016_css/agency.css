@@ -515,7 +515,6 @@ section h3.section-subheading {
     content: "";
     position: absolute;
     top: 0;
-25
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
@@ -687,7 +686,7 @@ section h3.section-subheading {
     }
 
     .timeline>li .timeline-panel {
-        padding: 0 20px 20px 100px;
+        padding: 0 20px 20px 10px;
     }
 
     .timeline>li .timeline-image {
@@ -701,7 +700,7 @@ section h3.section-subheading {
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
-        padding: 0 100px 20px 20px;
+        padding: 0 10px 20px 20px;
     }
 }
 

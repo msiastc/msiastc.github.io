@@ -8,7 +8,7 @@
                 </div>
             </div>
             <div class="row">
-            {% for post in site.categories.2016_speakers %}
+            {% for post in site.categories.2017_speakers %}
                 <div class="col-md-4 col-sm-6 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
                         <div class="speakers-hover">
@@ -16,7 +16,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="../css/2016_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        <img src="../css/2017_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
@@ -25,5 +25,9 @@
                 </div>
             {% endfor %}
             </div>
+
+            <p>We are still working hard to put all the speakers' information. In the mean time, you can visit your 2016 conference
+                website to check out all the speakers who attended last year</p>
+            <center><a href="/2016" class="page-scroll btn btn-xl">Visit Now</a></center>
         </div>
     </section>
