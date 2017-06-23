@@ -1,0 +1,10 @@
+---
+title: Syahira Syazreen binti Zainal Abidin 
+name: Syahira-Syazreen-binti-Zainal-Abidin
+subtitle: Head of Sponsorship
+layout: 2017_default
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Syahira Syazreen binti Zainal Abidin
+description: A Chemical Engineering student with a passion in being a team player. Syahira knows that the key to securing sponsorship is to understand the needs of the corporate sponsors and the event itself. Having a deep interest in STEM areas, she became a part of the team as she believes that MSTC has a potential in developing the STEM related industry in Malaysia.
+---

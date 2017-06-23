@@ -1,0 +1,10 @@
+---
+title: Muhammad Alif Ajis
+name: Muhammad-Alif-Ajis
+subtitle: Head of Human Resources
+layout: 2017_default
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Muhammad Alif Ajis
+description: As someone who is consistently growing himself, Alif is looking forward to work in a dynamic environment that offers various challenges and new exposure. His strengths lie on his communication and leadership skills that are essential for his position as the Head of Human Resources. Back during his college years, he was appointed as part of the Student Representative Council.
+---

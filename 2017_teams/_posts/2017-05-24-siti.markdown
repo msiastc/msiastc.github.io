@@ -1,0 +1,10 @@
+---
+title: Siti Zulaikhah Mohd Ali
+name: Siti-Zulaikhah-Mohd-Ali
+subtitle: Head of Sponsorship
+layout: 2017_default
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Siti Zulaikhah Mohd Ali
+description: Heading up our sponsorship portfolio, Zulaikhah is a first year student majoring in Accountancy who is a knowledge seeker- this has led her to play a role in MSTC to understand STEM related issues better. During her time at IISM A Levels, she was elected as Treasurer for Student Council and received numerous awards for her outstanding academic achievements.
+---

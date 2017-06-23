@@ -1,0 +1,10 @@
+---
+title: Muhammad Amin Adam Kushairi
+name: Muhammad-Amin-Adam-Kushairi
+subtitle: Head of Media
+layout: 2017_default
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Muhammad Amin Adam Kushairi
+description: Proficient in Adobe Photoshop and Premiere, Adam is an experienced graphic designer that has worked for numerous programmes such as Manchester Malaysian Night and KMS A Level Student Body. His background in engineering has benefitted him in terms of creative thinking that enables him to deliver stunning publicity materials for MSTC.
+---

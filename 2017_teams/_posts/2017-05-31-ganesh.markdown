@@ -1,0 +1,10 @@
+---
+title: Ganesh Pramod Karunakaran
+name: Ganesh-Pramod-Karunakaran
+subtitle: Coordinator
+layout: 2017_default
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Ganesh Pramod Karunakaran
+description: Our coordinator is currently in his 2nd year of Mechanical Engineering. Having been the Head of Operations for MSTC 2016, he realized the potential of this conference to be the catalyst for our future leaders to remain ahead and competitive in todays' fast paced world. Under his supervision, MSTC hopes to address the opportunities that lie ahead in STEM field.
+---

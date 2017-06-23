@@ -1,0 +1,10 @@
+---
+title: Ooi Shu Ning
+name: Ooi-Shu-Ning
+subtitle: Deputy Coordinator
+layout: 2017_default
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Ooi Shu Ning
+description: Her second involvement as committee for MSTC proves her enthusiasm to bring the conference to greater heights this year. She believes that it is a rewarding experience to shape the direction of the conference while aligning with YME-UK's vision to empower STEM students to develop themselves further beyond their fields. With the core message of the Fourth Industrial Revolution - how it will be impacting industries and our nation, MSTC is initiated as a platform for participants to embrace newly emerged technologies with open minds.
+---
