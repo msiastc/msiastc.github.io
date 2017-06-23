@@ -444,8 +444,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(60,179,113, .9); /* Fallback when no plugin support */
-    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+    background: #3cb371;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
