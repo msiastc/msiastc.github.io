@@ -812,7 +812,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #222;
+    background-color: #00283c;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -908,7 +908,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: orange;
+    background: #f2f2f2;
 }
 
 img::selection {

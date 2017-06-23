@@ -17,11 +17,11 @@
      width: 60%;
   }
   th, td {
-    border: 1px solid black;
+    border: 1px solid #00283c;
     font-size: 120%;
   }
   th {
-    background: #2F2F2F;
+    background: #00283c;
     color: white;
     letter-spacing: 1px;
   }
@@ -29,11 +29,11 @@
     text-align: center;
     font-size: 110%;
     a {
-        color: DodgerBlue;
+        color: #ff6738;
         text-decoration: none;
     }
     b {
-        color: RoyalBlue;
+        color: #ff6738;
     }
   }
   td + td {
