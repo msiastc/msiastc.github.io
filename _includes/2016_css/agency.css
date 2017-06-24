@@ -335,6 +335,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+    height: 100vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -348,7 +349,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 25vh;
     padding-bottom: 50px;
 }
 
@@ -364,12 +365,12 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 40px;
 }
 
-@media(min-width:768px) {
+@media(min-width:768px) {    
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
