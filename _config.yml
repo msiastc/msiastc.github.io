@@ -21,7 +21,7 @@ google_site_verification: google3d1dfe2dc5cfa440.html
 
 include: ['_2016_pages', '_2017_pages']
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
