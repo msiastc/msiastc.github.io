@@ -21,9 +21,7 @@ google_site_verification: google3d1dfe2dc5cfa440.html
 
 include: ['_2016_pages', '_2017_pages']
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+plugins: [jekyll-sitemap, jekyll-seo-tag]
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
