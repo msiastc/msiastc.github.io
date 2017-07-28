@@ -3,8 +3,8 @@ title: Chong Hui Wen
 name: Chong-Hui-Wen
 subtitle: Head of Marketing
 layout: 2017_default
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: huiwen.jpg
+thumbnail: huiwen.jpg
 alt: Picture of Chong Hui Wen
 description: Hui Wen, a third year student in MSci Biology is a neuroscientist in training who formulates ways to understand the target audience inside out and tailors the outreach strategies. With her previous experience as the Creative Director for Virgin Media UK, she is well versed in planning and coordinating marketing strategies to ensure the success of the second establishment of MSTC.
 ---
