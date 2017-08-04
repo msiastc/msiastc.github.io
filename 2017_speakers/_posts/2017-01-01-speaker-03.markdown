@@ -1,0 +1,12 @@
+---
+title: Mr. Gurmit Singh 
+name: Gurmit-Singh 
+subtitle: Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM)
+layout: 2017_default
+modal-id: 1
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of Mr. Gurmit Singh 
+topic: One of the panels as a panelist
+description: Introducing Mr. Gurmit Singh K.S., Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM), who will also be joining MSTC 2017 as a panelist.<br><br>Mr. Gurmit Singh is an environmentalist, social activist and engineer. Prior to becoming Chairman of CETDEM, he was the Centre’s founder Executive Director from June 1985 to December 2006. He was appointed as Director of CETDEM’s think tank SUDI in Aug. 2011.<br><br>He is also an Adviser of the Environmental Protection Society, Malaysia, after having served as founder President from 1974 to 1994. He was Regional Coordinator of Climate Action Network, Southeast Asia (CANSEA) for 3 terms until 15th September 2012.<br><br>For his dedicated work, the Malaysian Government awarded Mr. Gurmit the distinguished Langkawi Award in 1993 and the Sustainable Consumer Award in 2008. UN Malaysia gave him its Environmental Sustainability Award in 2013 while MBPJ presented him its Green Leadership award towards the end of that year. In 2015, the Malaysian Green Technology Corporation gave him the Green Catalyst Award. He was also awarded an Honorary M.Sc. from Universiti Putra Malaysia in 2000.<br><br>Mr. Gurmit holds an Electrical Engineering degree from the University of Malaya (1970). He has been a corporate member of the Institution of Engineers Malaysia since 1974. His Memoirs of a Malaysian Eco-Activist was launched on 22 April 2017.
+---
