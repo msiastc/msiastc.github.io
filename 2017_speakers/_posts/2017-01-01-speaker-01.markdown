@@ -4,8 +4,8 @@ name: Norhizam-Abdul-Kadir
 subtitle: Vice President of Growth Ecosystem Development Division, Malaysia Digital Economy Corporation (MDEC)
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: Norhizam.jpg
+thumbnail: Norhizam.jpg
 alt: Picture of Mr. Norhizam Abdul Kadir
 topic: Opening Keynote Speech
 description: Our first speaker delivering our opening keynote speech is Mr. Norhizam Abdul Kadir, the Vice President of Growth Ecosystem Development Division, Malaysia Digital Economy Corporation (MDEC).<br><br>Mr. Norhizam Abdul Kadir (or Hizam) brings with him over 15 years’ worth of experience in multi-market IT and energy industries across Asia Pacific. He has strong experiences in corporate marketing, end-customer sales, business development, communications and channel marketing and enablement. His last employment was as the Director of South East Asia for Ballard Power Systems. <br><br> He was with Intel for a period of 12 years, starting with his role as the group communication manager for Intel South East Asia. Mr. Hizam was also in Microsoft Malaysia as Partner Marketing Lead in 2010 before re-joining Intel Indonesia as Marketing Director.

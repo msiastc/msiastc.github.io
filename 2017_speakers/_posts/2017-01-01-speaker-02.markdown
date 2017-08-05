@@ -4,8 +4,8 @@ name: Mazlan-Abbas
 subtitle: Co-Founder and CEO<br>of<br>Favoriot
 layout: 2017_default
 modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
+img: mazlan-abbas.png
+thumbnail: mazlan-abbas.png
 alt: Picture of Dr. Mazlan Abbas
 topic: One of the panels as a panelist
 description: Joining one of our panels as a panelist is Dr. Mazlan Abbas, the Co-Founder and CEO of Favoriot, the latest Internet of Things (IoT) startup company in Malaysia.<br><br>Dr. Mazlan is ranked among the 50 Most Impactful Smart Cities Leaders by World CSR Congress 2017, Top 10 in IoT Top 100 Influencers by Postscapes 2017, No. 20th Thought Leader in IOT by 2014 Onalytics Report – “The Internet of Things - Top 100 Thought Leaders”, and Top 100 in Smart Cities Top Experts by Agilience Authority Index May 2016. He is currently also a Board Member of the Global Vision Board (GBV).<br><br>Before Favoriot, he spent 2.5 years as the CEO of REDtone IOT and 8 years in MIMOS Berhad as the Senior Director of the Wireless Communications Cluster. He also spent 13 years in Celcom (mobile operator), holding various senior management positions. Prior to Celcom, he spent 10 years as an Assoc. Professor at Universiti Teknologi Malaysia (UTM). He was the Adjunct Professor for UTM (2008-2013) and UTHM (2005, 2013-2016).<br><br>Dr. Mazlan is a frequent speaker in many major & established IoT, Smart Cities and telco conferences locally and globally. He has served as MOSTI's Innofund, Technofund and Science Fund (ICT Cluster) Technical & Commercial Evaluation Committee and sits in the Industry Advisory Panel (IAP) for several local universities. He graduated from Universiti Teknologi Malaysia with a BEE (1984), University of Essex (UK) with MSc. in Telematics (1986) and Universiti Teknologi Malaysia with a PhD in Telecommunications (1993).
