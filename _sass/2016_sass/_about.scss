@@ -43,13 +43,22 @@
 
 @media screen and (max-width : 1200px){
   .about {
-      margin: 100px 10vw 60px 10vw;
+      margin: 20px 10vw 20px 10vw;
+  }
+  .about-container-top {
+    margin-top: 100px;
+  }
+  .about-container-bottom {
+    margin-bottom: 80px;
   }
 }
 
 @media screen and (max-width : 760px){
   .about {
-      margin: 80px 10px 10px 10px;
+      margin: 10px 10px 10px 10px;
+  }
+  .about-container-top {
+    margin-top: 80px;
   }
   h1 {
     font-size: 130%;

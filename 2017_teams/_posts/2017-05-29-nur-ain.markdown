@@ -3,8 +3,8 @@ title: Nur Ain Syafiqah Abdul Halim
 name: Nur-Ain-Syafiqah-Abdul-Halim
 subtitle: Deputy Coordinator (Malaysia)
 layout: 2017_default
-img: ani.jpg
-thumbnail: ani.jpg
+img: nur-ani.jpg
+thumbnail: nur-ani.jpg
 alt: Picture of Nur Ain Syafiqah Abdul Halim
 description: Ain is a 1st year Civil Engineering student that has the passion of empowering Malaysian youth especially in STEM areas through the inception of MSTC. Her involvement in KYoutreach and NALS gave her the insights on the role of youth in assisting the development of a country and equipped her with excellent leadership qualities.
 ---
