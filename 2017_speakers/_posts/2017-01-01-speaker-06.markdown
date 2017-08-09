@@ -1,0 +1,12 @@
+---
+title: Ir. Tan Yean Chin
+name: Tan-Yean-Chin
+subtitle: President of The Institution of Engineers, Malaysia (IEM) and Senior Director of G&P Geotechnics Sdn Bhd
+layout: 2017_default
+modal-id: 1
+img: Tan-Yean-Chin.jpg
+thumbnail: Tan-Yean-Chin.jpg
+alt: Picture of Ir. Tan Yean Chin 
+topic: Closing keynote speaker for MSTC 2017
+description: Our closing keynote speaker for MSTC 2017 is Ir. Tan Yean Chin, the President of The Institution of Engineers, Malaysia (IEM) and Senior Director of G&P Geotechnics Sdn Bhd, an engineering consulting firm based in Kuala Lumpur. <br><br> Ir. Tan Yean Chin has been a Board Member of the Board of Engineers, Malaysia (BEM) since 1998, and is also an Accredited Checker (Geotechnical) registered with BEM. He obtained his Bachelor Degree in Civil Engineering with First Class Honours from University Technology Malaysia (UTM) in 1992. Later, he acquired his Masters Degree in Geotechnical Engineering and was awarded The Chin Fung Kee Prize for outstanding academic performance from Asian Institute of Technology (AIT), Bangkok in 1994. <br><br> Ir. Tan also holds the position of Secretary General of the Federation of Engineering Institutions of Asia and the Pacific (FEIAP), an independent umbrella organisation for the engineering institutions in the Asia and the Pacific region. He has published more than 70 technical papers on geotechnical engineering in local and overseas conferences and seminars.
+---

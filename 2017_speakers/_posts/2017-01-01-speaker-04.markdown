@@ -1,0 +1,12 @@
+---
+title: Mr. Cheong Jin Xi
+name: Cheong-Jin-Xi
+subtitle: Founder<br>of<br>Poladrone
+layout: 2017_default
+modal-id: 1
+img: Cheong-Jin-Xi.jpg
+thumbnail: Cheong-Jin-Xi.jpg
+alt: Picture of Cheong Jin Xi 
+topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
+description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> Cheong Jin Xi is the founder and CEO of Poladrone, who studied Aerospace Engineering at Monash University in Australia. He gained his financial knowledge through self-learning and served as a senior finance business analyst in Intel Corporation for a few years. This has therefore greatly influenced his good technical and financial background. Passionate about drones and foreseeing their good impact in different industries, he decided to form a drone startup, Poladrone in Malaysia, with the goal of accelerating the drone revolution in South East Asia region. Jin Xi sees the future in Internet of Things (Data Driven), everyday use commercial drones (Logistics Driven) and the emergence of the space tourism industry (Curiosity Driven).
+---

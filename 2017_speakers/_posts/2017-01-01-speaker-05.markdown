@@ -1,0 +1,12 @@
+---
+title: Mr. How Yong Guan 
+name: How-Yong-Guan
+subtitle: Chairman of Centre for Environment, Technology and Development, Malaysia (CETDEM)
+layout: 2017_default
+modal-id: 1
+img: how-yong-guan.jpg
+thumbnail: how-yong-guan.jpg
+alt: Picture of How Yong Guan 
+topic: Unmanned Technology (Drone) Applications & Study Abroad Sharing Session
+description: Titled "Unmanned Technology (Drone) Applications & Study Abroad Sharing Session", this informative session will be presented by the founders of Poladrone Solutions Sdn Bhd, a Malaysian-based company founded by a team of aerospace and data engineers that utilises autonomous drones and customised algorithms to efficiently collect and analyze data. <br><br> How Yong Guan is the co-founder and CTO of Poladrone who studied Aerospace Engineering at Universiti Sains Malaysia. Once upon a time, he was an engineering intern in Singapore Aerospace Manufacturing (SAM) and assisted in the design of fixture and jigs for aircraft engine casings. He is a tech-enthusiast fascinated by drones and has been building a hybrid VTOL drone which is able to vertically take-off and land, as well as change its flight transition to forward flight mode. After graduating, he joined Poladrone with the mission to solve existing industrial problems with the help of drones and data analytics. He believes that drones will benefit mankind in many proper ways and the sky is the limit for this innovation.
+---
